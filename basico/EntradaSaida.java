@@ -24,7 +24,7 @@ public class EntradaSaida {
 		
 		System.out.println("nome:"+nome);
 		System.out.println("Idade:"+idade);
-		System.out.println("altura:"+altura);
+		System.out.println("Altura:"+altura);
 		System.out.println();
 		
 	System.out.printf("Nome: %s \nidade: %d \naltura %.2f", nome,idade,altura);
