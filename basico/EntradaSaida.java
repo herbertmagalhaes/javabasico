@@ -23,7 +23,7 @@ public class EntradaSaida {
 		altura = leitor.nextDouble();
 		
 		System.out.println("nome:"+nome);
-		System.out.println("idade:"+idade);
+		System.out.println("Idade:"+idade);
 		System.out.println("altura:"+altura);
 		System.out.println();
 		
